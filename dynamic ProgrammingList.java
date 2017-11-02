@@ -9,7 +9,7 @@ import java.util.Scanner;
  *
  * @author christopherdonoso
  */
-public class Hw03 
+public class dynamicProgrammingList 
 {
     
     /**
